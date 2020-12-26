@@ -1,3 +1,6 @@
+
+#simple audio signal and plot them. 
+
 import numpy as np
 import matplotlib.pyplot as plt
 plt.rcParams['figure.figsize'] = [16,12]
